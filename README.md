@@ -1,22 +1,16 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     Muhammad Abdullah Haroon · GitHub Profile README
-═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-  <!-- Animated typing header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Muhammad+Abdullah+Haroon;CS+@+FAST-NUCES+%7C+AI+%26+ML+Researcher;Urdu+NLP+%C2%B7+RAG+%C2%B7+Multilingual+Systems" alt="Typing SVG" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=80&lines=Muhammad+Abdullah+Haroon;AI+%2F+ML+Engineer+%26+Researcher;Building+Production+AI+Systems" alt="Typing SVG" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Location + Status -->
   <p>
-    <img src="https://img.shields.io/badge/📍_Lahore%2C_Pakistan-0B4F8A?style=flat-square&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/🎓_BSCS_FAST--NUCES-Expected_2027-1F6FEB?style=flat-square" />
-    <img src="https://img.shields.io/badge/Open_to_Collaborations-2EA043?style=flat-square" />
+    <img src="https://img.shields.io/badge/📍_Lahore%2C_Pakistan-0B4F8A?style=flat-square" />
+    <img src="https://img.shields.io/badge/🎓_BSCS_•_FAST--NUCES-Expected_2027-1F6FEB?style=flat-square" />
+    <img src="https://img.shields.io/badge/🚀_Open_to_Opportunities-2EA043?style=flat-square" />
   </p>
 
-  <!-- Socials -->
   <p>
     <a href="https://www.linkedin.com/in/abdullah-haroon-98b460217">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,9 +29,8 @@
     </a>
   </p>
 
-  <!-- Visitor counter -->
   <p>
-    <img src="https://visitcount.itsvg.in/api?id=AbdullahPatti&icon=0&color=0" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=AbdullahPatti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
 
 </div>
@@ -46,44 +39,53 @@
 
 ### 👋 About Me
 
-I'm a Computer Science undergraduate at **FAST-NUCES (Lahore)** focused on **Machine Learning**, **Multilingual NLP** (especially low-resource Urdu & Roman Urdu), **RAG systems**, and building production-ready AI tools.
+I'm a Computer Science student at **FAST-NUCES** focused on building **reliable AI systems** — from research and evaluation all the way to production.
 
-I enjoy turning research findings into open-source benchmarks and shipping small but complete products. Recent work includes domain-robustness studies for Urdu NLP, shortcut-learning diagnostics in fake-news detection, and several live AI applications.
+I work across the full stack of modern AI: data pipelines, model training & evaluation, RAG / agentic architectures, backend services, and deployment. I care equally about **rigorous experimentation** and **shipping systems that actually work** under real constraints.
 
-**Currently**: Building multi-domain, bi-script fake news + deepfake audio detection systems (FYP) and releasing large Urdu evaluation resources.
+**Core strengths**
+- Multilingual & low-resource NLP (especially Urdu / Roman Urdu)
+- Retrieval-Augmented Generation and agentic workflows
+- Evaluation design, robustness testing, and shortcut detection
+- End-to-end ownership (data → model → API → monitoring)
+
+Open to roles in **AI Engineering, ML Engineering, AI Research, Software Engineering, Forward Deployed Engineering, Data Science, and Generative / Agentic AI**.
 
 ---
 
-### 🔬 Research Highlights
+### 🔬 Selected Research
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Domain Robustness of Multilingual NLP Models Across Urdu and Roman Urdu Scripts**  
+**Domain Robustness of Multilingual NLP Models**  
 *In preparation* (targeting Springer LRE)  
-• 33 datasets · 288,899 examples  
-• Released on Hugging Face, Zenodo & GitHub  
-• 5 models evaluated under a unified robustness protocol
+
+• Built & released **33 datasets** (288,899 examples)  
+• Designed a domain-robustness evaluation protocol  
+• Benchmarked 5 models across sentiment, hate speech, fake news & QA
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **When Benchmarks Mislead**  
 [arXiv:2607.14131](https://arxiv.org/abs/2607.14131)  
-• Length confound discovery in Urdu FND  
-• Cross-dataset collapse (macro-F1 0.771 → 0.005)  
-• Reproduced on English FND + sarcasm detection
+
+• Identified critical length confounds in fake news detection  
+• Showed severe cross-dataset generalization failure  
+• Reproduced the failure mode across languages and tasks
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" valign="top">
 
-**Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion**  
+**Regime-Aware Multi-Modal Bitcoin Direction Prediction**  
 [arXiv:2607.23370](https://arxiv.org/abs/2607.23370)  
-• RAML architecture (FinBERT + BiLSTM + volatility gate)  
-• Strongest results on 3h / 6h horizons vs strong baselines
+
+• Proposed RAML (FinBERT + BiLSTM + volatility-conditioned fusion)  
+• Demonstrated the necessity of regime-aware fusion via ablation
 
 </td>
 </tr>
@@ -91,31 +93,31 @@ I enjoy turning research findings into open-source benchmarks and shipping small
 
 ---
 
-### 💼 Experience Snapshot
+### 💼 Experience
 
-| Role | Organization | Period | Focus |
-|------|--------------|--------|-------|
-| **Research Intern** | FAST School of Computing | Jul – Sep 2026 | Urdu NLP domain robustness, 33-dataset benchmark, model evaluation |
-| **IT Intern** | QuickFuel | Jun – Jul 2026 | First AI/ML work in company history · Sentiment + semantic search prototypes |
-| **AI Automation Intern** | Optimus Automate | Jun – Jul 2026 | LLM email triage agent + RAG document Q&A system |
+| Role | Organization | Focus |
+|------|--------------|-------|
+| **Research Intern** | FAST School of Computing | Led independent research on Urdu NLP robustness • Built large multi-domain benchmark • Designed evaluation protocols |
+| **IT Intern** | QuickFuel | Introduced AI/ML into a traditional .NET stack • Built sentiment analysis + semantic search prototypes • Performed system audits |
+| **AI Automation Intern** | Optimus Automate | Built LLM-powered email triage agent and RAG document Q&A system end-to-end |
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Selected Projects
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **TaxChronos** | Multilingual RAG for Pakistani tax queries (English–Urdu code-switching) · < 20s answers | Python, LangChain, Qdrant, Gemini, RAGAS | [GitHub](https://github.com/AbdullahPatti/TaxChronos) |
-| **Daily Digest** | Live production AI news aggregator · personalized scheduled email digests (15+ users) | FastAPI, PostgreSQL, Gemini, Docker, JWT | [GitHub](https://github.com/AbdullahPatti/News-Reporter) |
-| **Urdu Domain-Robustness Benchmark** | Open-source 33-dataset dual-script benchmark + evaluation harness | Transformers, XLM-RoBERTa | [GitHub](https://github.com/AbdullahPatti/Urdu-Multi-Domain-Script-Research) |
-| **Bilingual WhisperBench** | Zero-shot evaluation of Whisper models on Urdu–English code-mixed speech + new SPER metric | Whisper, FastAPI | [GitHub](https://github.com/AbdullahPatti/Bilingual-Whisper-Bench) |
-| **FinSight** | Financial behavior & risk analysis platform (Isolation Forest + HMM + NLP) | React, FastAPI, Scikit-learn | [GitHub](https://github.com/AbdullahPatti/FinSight-Financial-Analysis) |
+| Project | What it does | Stack | Link |
+|---------|--------------|-------|------|
+| **TaxChronos** | Production-style multilingual RAG for Pakistani tax queries (English–Urdu code-switching) | LangChain, Qdrant, Gemini, RAGAS | [GitHub](https://github.com/AbdullahPatti/TaxChronos) |
+| **Daily Digest** | Live AI news aggregator with personalized scheduled delivery (15+ users) | FastAPI, PostgreSQL, Gemini, Docker, JWT | [GitHub](https://github.com/AbdullahPatti/News-Reporter) |
+| **Urdu Domain-Robustness Benchmark** | Open-source 33-dataset dual-script benchmark + evaluation tooling | Transformers, XLM-RoBERTa | [GitHub](https://github.com/AbdullahPatti/Urdu-Multi-Domain-Script-Research) |
+| **Bilingual WhisperBench** | Zero-shot evaluation of Whisper models on code-mixed speech + custom SPER metric | Whisper, FastAPI | [GitHub](https://github.com/AbdullahPatti/Bilingual-Whisper-Bench) |
+| **FinSight** | Financial risk analysis platform combining anomaly detection, behavioral modeling & NLP | React, FastAPI, Scikit-learn, HMM | [GitHub](https://github.com/AbdullahPatti/FinSight-Financial-Analysis) |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**  
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -123,25 +125,32 @@ I enjoy turning research findings into open-source benchmarks and shipping small
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Machine Learning & Generative AI**  
+#### Machine Learning & Generative AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
-**Backend & Databases**  
+#### Backend, APIs & Vector Stores
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
-
-**Frontend & Tooling**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FAISS](https://img.shields.io/badge/FAISS-1C3C3C?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Frontend & Tooling
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -149,12 +158,12 @@ I enjoy turning research findings into open-source benchmarks and shipping small
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdullahPatti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahPatti&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahPatti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahPatti&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
 
   <br/>
 
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPatti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPatti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
@@ -176,9 +185,9 @@ I enjoy turning research findings into open-source benchmarks and shipping small
 ### 🏆 Leadership & Activities
 
 - Team Lead / Scrum Master on FYP and multiple semester projects  
-- Media Officer — SOFTEC'25 · SQL Query Master Competition  
+- Media Officer — SOFTEC'25 & SQL Query Master Competition  
 - ACM Speed Programming Competition  
-- Delivered AI masterclasses & workshops  
+- Delivered AI masterclasses and workshops  
 - Taught MS Office at Pact College  
 - Deputy Head of Public Relations — FAST Business Club
 
@@ -187,7 +196,7 @@ I enjoy turning research findings into open-source benchmarks and shipping small
 <div align="center">
 
   ### ⚡ Fun Fact
-  Left-handed · Rubik’s Cube solver · Obsessed with clean evaluation protocols and low-resource languages
+  Left-handed · Rubik’s Cube solver · Care deeply about evaluation rigor and systems that actually ship
 
   <br/>
 
@@ -195,6 +204,6 @@ I enjoy turning research findings into open-source benchmarks and shipping small
 
   <br/><br/>
 
-  <i>Thanks for stopping by! Feel free to explore the repositories or reach out for collaborations.</i>
+  <i>Thanks for visiting. Always happy to chat about AI systems, research, or interesting problems.</i>
 
 </div>
